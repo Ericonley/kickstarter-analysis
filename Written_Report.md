@@ -1,12 +1,12 @@
-# Kickstarting with Excel
+# **Kickstarting with Excel**
 
-## Overview of Project
+## **Overview of Project**
 
 ### Purpose
 
 Analyze how other theatre Kickstarter campaigns did in comparison to Louise's play *Fever* campaign in relation to their launch dates and their funding goals.  This information will provide Louise with the knowledge of when the best time to launch the Kickstarter for her production *Fever* is based on past staticics and give an idea of the success rate of similar campaigns based on the goal amount.
 
-## Analysis and Challenges
+## **Analysis and Challenges**
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -24,7 +24,7 @@ The graph above shows the correlation between the amount of a campaign’s goal 
 
 I did struggle with being able to get the data from the outcomes based on goals chart to display correctly in a graph.  It took me a while to get the Y axis to display the percentages and the lines to display the information listed in each percentages category.
 
-## Results
+## **Results**
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
